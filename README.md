@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Stitchblue89
+- 👀 I’m interested in ... making a mid horror game
+- 🌱 I’m currently learning ... how to make a mid horror game
+  
+- 💞️ I’m looking to collaborate on ... making a game in Roblox, that is mid horror
+- 📫 How to reach me ... go onto Roblox and search up the game
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... you can play as many games as you can imagine on Roblox
+
+<!---
+Stitchblue89/Stitchblue89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
